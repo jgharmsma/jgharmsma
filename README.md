@@ -8,9 +8,9 @@ I build teams of AI agents that get real work done, running on my own hardware.
 - **Autonomy and safety:** deciding what agents may do on their own, which checks are tools and which are gates, and how to recover when something breaks.
 - **Self-hosting:** a homelab running the whole stack, from reverse proxy to backups.
 
-## Writing and projects
+## Projects
 
-Articles and open-source examples are on their way. Check back soon.
+- **[PolitiekCorrect](https://politiekcorrect.com):** a self-built system of AI agents that gathers sources, runs the numbers on Dutch government policy and publishes the results with open methodology. The AI analyses, the reader decides.
 
 ## Contact
 
