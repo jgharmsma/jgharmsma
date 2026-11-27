@@ -1,6 +1,8 @@
 # Jaap Harmsma
 
-I build teams of AI agents that get real work done, running on my own hardware.
+I build teams of AI agents that actually get real work done, running on my own hardware.
+
+Website: [jaapharmsma.nl](https://jaapharmsma.nl)
 
 ## What I work on
 
@@ -10,7 +12,8 @@ I build teams of AI agents that get real work done, running on my own hardware.
 
 ## Projects
 
-- **[PolitiekCorrect](https://politiekcorrect.com):** a self-built system of AI agents that gathers sources, runs the numbers on Dutch government policy and publishes the results with open methodology. The AI analyses, the reader decides.
+- **[PolitiekCorrect](https://github.com/jgharmsma/politiek-correct):** a system of AI agents that gathers sources, runs the numbers on Dutch government policy and publishes the results with open methodology. The AI analyses, the reader decides. [Live site](https://politiekcorrect.com).
+- **[jaapharmsma.nl](https://github.com/jgharmsma/jaapharmsma-nl):** the source of my personal site, with notes on building and running teams of AI agents.
 
 ## Contact
 
